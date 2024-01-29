@@ -7,13 +7,7 @@
     padding: 0;
     gap: 30px;
 }
-.pokemonPage__img{
-    width: 100%;
-}
 
-.logo__pokedex{
-    width: 20px;
-}
 
 .pokemonPage__id{
     display: flex;
@@ -30,7 +24,7 @@
 
 .pokemonPage__hr{
     height: 1px;
-    width: 320px;
+    width: 390px;
     background: #9F9F9F;
 }
 
@@ -119,11 +113,11 @@
     align-items: center;
     justify-content: center;
     padding: 30px;
-    width: 80%;
+    width: 90%;
     gap: 7px;
 }
 .stats__title{
-    font-family: Roboto;
+    font-family: 'Roboto';
     font-size: 45px;
     font-weight: 500;
     line-height: 53px;
@@ -147,7 +141,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 60%;
+    width: 80%;
 
 }
 
