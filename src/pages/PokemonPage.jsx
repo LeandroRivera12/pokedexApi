@@ -20,9 +20,7 @@ const PokemonPage = () => {
 
   return (
     <div className='pokemonPage__container'>
-      <header>
-        <img src="/header.png" alt="" />
-      </header>
+      <GeneralHeader/>
       <article className='pokamenPage__sheet'>
 
           <section className='pokemonPage__section'>

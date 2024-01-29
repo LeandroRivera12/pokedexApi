@@ -11,6 +11,10 @@
     width: 100%;
 }
 
+.logo__pokedex{
+    width: 20px;
+}
+
 .pokemonPage__id{
     display: flex;
     justify-content: center;
